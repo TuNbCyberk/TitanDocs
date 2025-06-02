@@ -4,7 +4,7 @@
 
 ## Developers
 
-[Titan Kit](titan-kit/README.md)
+- [Titan Kit](titan-kit/README.md)
 
 - [Getting Started]()
   - [Installation](titan-kit/getting-started/installation.md)
